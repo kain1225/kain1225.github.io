@@ -1,0 +1,1 @@
+window.JOURNAL_PUBLIC = {"profile": {"name": "Kai", "role": "联合创始人 · CTO", "bio": "探索 AI 与科学的交汇，也记录从想法到产品的过程。", "headline": "在创造中思考，\n在记录中生长。", "about": "这里是一块留给思考的空白。记录创业路上的观察、关于 AI 的问题，以及值得留下来的技术实践。", "focus": "AI for Science · 材料研发 · Agent", "github": "", "email": ""}, "posts": []};
